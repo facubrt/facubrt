@@ -2,11 +2,6 @@
 
 Mi nombre es Facundo, soy Ingeniero Biomédico y estoy especialmente interesado en el desarrollo de software para la salud
 
-### Conecta conmigo
-
-<a href="https://www.linkedin.com/in/facubrt/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.twitter.com/facubrt/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-
 ### Un poco sobre mí
 - Organizado
 - Creativo
@@ -24,3 +19,8 @@ Mi nombre es Facundo, soy Ingeniero Biomédico y estoy especialmente interesado 
 <img alt="C++" align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="Kotlin" align="left" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+
+### Conecta conmigo
+
+<a href="https://www.linkedin.com/in/facubrt/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.twitter.com/facubrt/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
