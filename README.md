@@ -1,6 +1,6 @@
 # Hola :wave:
 
-Mi nombre es Facundo, soy Ingeniero Biomédico y estoy especialmente interesado en el desarrollo de software para la salud
+Mi nombre es Facundo, soy Bioingeniero y estoy especialmente interesado en el desarrollo de software para la salud
 
 ### Un poco sobre mí
 - Organizado
@@ -14,7 +14,6 @@ Mi nombre es Facundo, soy Ingeniero Biomédico y estoy especialmente interesado 
 <img alt="Python" align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="React" align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Node" align="left" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img alt="MongoDB" align="left" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="MySQL" align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alt="C++" align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="Kotlin" align="left" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
