@@ -44,3 +44,6 @@ Cognitask is part of a Final Bioengineering Project titled "Development of a P30
   <img src="https://facubrt.github.io/cognitask/assets/img/profesional.svg" width=48%> <img src="https://facubrt.github.io/cognitask/assets/img/usuario.svg" width=44%>
 </p>
 
+### Basic COM, Groups KEY, Voice COM, Routes COM: Augmentative and alternative communication applications
+[Basic COM Repository](https://github.com/facubrt/flutter--basic-com-app) | [Groups KEY Repository](https://github.com/facubrt/flutter--groups-key-app) | [Voice COM Repository](https://github.com/facubrt/flutter--voice-com-app) | [Routes COM Repository](https://github.com/facubrt/flutter--routes-com-app) 
+
