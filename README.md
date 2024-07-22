@@ -31,3 +31,17 @@ I am a Bioengineer with special interest in the development of healthcare softwa
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@facubrt)
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 
+## Projects
+### Cognitask: Brain-Computer Interface system based on P300
+
+<div>https://www.linkedin.com/in/facubrt/</div>
+https://facubrt.github.io/cognitask/
+<p>
+<p align="justify">
+Cognitask is part of a Final Bioengineering Project titled "Development of a P300-Based BCI for Cognitive Rehabilitation of Adults with Attention Deficit" at the Faculty of Engineering (UNER). It features two interfaces: one for the professional and one for the patient. The professional interface allows for patient data entry, session configuration, and real-time session information. It also lets the professional control the system's operation. The patient interface, displayed on a separate screen, shows the tasks, progress, and feedback. The tasks involve arranging images in a stimulation matrix using a P300-based BCI, which detects the user's focus on specific cells. There are three types of tasks: Words, Sequences, and Puzzles, varying in complexity.
+</p>
+
+<p align="center">
+  <img src="https://facubrt.github.io/cognitask/assets/img/profesional.svg" width=48%> <img src="https://facubrt.github.io/cognitask/assets/img/usuario.svg" width=44%>
+</p>
+
