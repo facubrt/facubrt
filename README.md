@@ -33,42 +33,73 @@ I am a Bioengineer with special interest in the development of healthcare softwa
 
 ## Projects
 ### Ser Eucaristía: Catholic Application
-
 [Ser Eucaristía - Google Play](https://play.google.com/store/apps/details?id=com.sereucaristia) | [Ser Eucaristía - Website](https://www.sereucaristia.com.ar/) | [Ser Eucaristía - Podcast](https://open.spotify.com/show/7E8f2o8GWoTCz2wSguligJ?si=dcaf2bfc25af4833) | [Iglesia Millenial - Interview](https://iglesiamillennial.com/2020/06/18/ser-eucaristia-ser-detalles-del-amor-de-dios/) | [AICA - Interview](https://aica.org/noticia-ser-eucaristia-un-proyecto-de-evangelizacion-joven-en-las-redes-sociales)
-<br/>
+
+<img src="https://i.imgur.com/ATfESGp.png" width=30%> 
+
 <p align="justify">
 Ser Eucaristía is a personal Catholic project that started on social media and later expanded to a mobile application to reach more places and hearts. The application is currently in production, was launched in 2021, and has been growing steadily. Users of Ser Eucaristía can create an account and receive daily updates, including the Gospel of the day and a random quote (paper airplanes) from saints, Bible verses, etc. Users can also create their own 'paper airplanes,' fostering a community that interacts daily to spread the word of God to different places and hearts.
 </p>
-<p align="center">
+<p>
   <img src="https://i.imgur.com/I0ky1dj.png" width=24%> 
   <img src="https://i.imgur.com/bNVTwOS.png" width=24%> 
   <img src="https://i.imgur.com/yD7i0rD.png" width=24%> 
   <img src="https://i.imgur.com/6JNZXoA.png" width=24%> 
 </p>
 
-### Cognitask: BCI system based on P300 for cognitive therapies
+### APPTO: Rehabilitation Application for Therapists
+[APPTO - Google Play (Coming soon...)]()
 
+<img src="https://i.imgur.com/cCXXDUS.png" width=30%> 
+
+</p>
+APPTO is a mobile application designed for rehabilitation professionals who work independently, providing services at patients' homes. The application allows professionals to create an account, manage patient records, and track rehabilitation evaluations. Additionally, APPTO enables the creation of automated reports, provides a session schedule, and stores all professional observations made during each evaluation.
+</p>
+
+<p>
+  <img src="https://i.imgur.com/EjySxxg.png" width=24%> 
+  <img src="https://i.imgur.com/bNzIEn6.png" width=24%> 
+  <img src="https://i.imgur.com/hfu54hH.png" width=24%> 
+  <img src="https://i.imgur.com/RB88qbT.png" width=24%> 
+</p>
+
+### Cognitask: BCI system based on P300 for cognitive therapies
 [Cognitask - Repository](https://github.com/facubrt/cognitask) | [Cognitask - Website](https://facubrt.github.io/cognitask/) | [Cognitask - Latin IEEE Transaction](https://latamt.ieeer9.org/index.php/transactions/article/view/6030)
-<br/>
+
+<img src="https://i.imgur.com/R4wnq54.png" width=30%> 
+
 <p align="justify">
 Cognitask is part of a Final Bioengineering Project titled "Development of a P300-Based BCI for Cognitive Rehabilitation of Adults with Attention Deficit" at the Faculty of Engineering (UNER). It features two interfaces: one for the professional and one for the patient. The professional interface allows for patient data entry, session configuration, and real-time session information. It also lets the professional control the system's operation. The patient interface, displayed on a separate screen, shows the tasks, progress, and feedback. The tasks involve arranging images in a stimulation matrix using a P300-based BCI, which detects the user's focus on specific cells. There are three types of tasks: Words, Sequences, and Puzzles, varying in complexity.
 </p>
 
-<p align="center">
-  <img src="https://facubrt.github.io/cognitask/assets/img/profesional.svg" width=48%> 
+<p>
+  <img src="https://facubrt.github.io/cognitask/assets/img/profesional.svg" width=47.5%> 
   <img src="https://facubrt.github.io/cognitask/assets/img/usuario.svg" width=44%>
 </p>
 
-### Automation of Occupational Therapy evaluations: Flask application
-<br/>
+### PyETO: Automation of Occupational Therapy evaluations
+
+<img src="https://i.imgur.com/hXcJULv.png" width=30%>
+
 <p align="justify">
-The developed software aims to provide an efficient tool to streamline the assessment and reporting process for the Occupational Therapy CR service at Fleni. The software is hosted on Fleni's server and includes a database that allows the creation of patients. Each patient can have an Admission report, Discharge report, and associated FIM reports. These reports can be downloaded for editing in both Word and Excel formats, using templates provided by the service.
+PyETO is a Flask application developed with the aim of providing an efficient tool to streamline the assessment and reporting process for the Occupational Therapy CR service at Fleni. The software is hosted on Fleni's server and includes a database for patient management. Each patient can have an admission report, discharge report, and associated FIM reports. These reports can be downloaded for editing in Word and Excel formats using templates provided by the service.
 </p>
-<p align="center">
+<p>
   <img src="https://i.imgur.com/cHXlwK4.png" width=48%> 
   <img src="https://i.imgur.com/qYOOpS7.png" width=48%>
 </p>
 
 ### Basic COM, Groups KEY, Voice COM, Routes COM: Augmentative and alternative communication applications
 [Basic COM - Repository](https://github.com/facubrt/flutter--basic-com-app) | [Groups KEY - Repository](https://github.com/facubrt/flutter--groups-key-app) | [Voice COM - Repository](https://github.com/facubrt/flutter--voice-com-app) | [Routes COM - Repository](https://github.com/facubrt/flutter--routes-com-app) 
+
+<p>
+  <img src="https://i.imgur.com/4ps3Cng.png" width=30%>
+  <img src="https://i.imgur.com/UUNFTR1.png" width=30%> 
+  <img src="https://i.imgur.com/LUYs5Le.png" width=30%>
+  <img src="https://i.imgur.com/01yTbPI.png" width=30%> 
+</p>
+
+<p align="justify">
+While these applications are individual in nature, together they cover the essential aspects of communication through communication boards, group keyboards, route-based communication, among other features. These applications are designed to be used both by professionals during rehabilitation sessions and by patients in their daily lives.
+</p>
 
