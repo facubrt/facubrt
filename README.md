@@ -93,13 +93,19 @@ PyETO is a Flask application developed with the aim of providing an efficient to
 [Basic COM - Repository](https://github.com/facubrt/flutter--basic-com-app) | [Groups KEY - Repository](https://github.com/facubrt/flutter--groups-key-app) | [Voice COM - Repository](https://github.com/facubrt/flutter--voice-com-app) | [Routes COM - Repository](https://github.com/facubrt/flutter--routes-com-app) 
 
 <p>
-  <img src="https://i.imgur.com/4ps3Cng.png" width=30%>
-  <img src="https://i.imgur.com/UUNFTR1.png" width=30%> 
-  <img src="https://i.imgur.com/LUYs5Le.png" width=30%>
-  <img src="https://i.imgur.com/01yTbPI.png" width=30%> 
+  <img src="https://i.imgur.com/4ps3Cng.png" width=20%>
+  <img src="https://i.imgur.com/UUNFTR1.png" width=20%> 
+  <img src="https://i.imgur.com/LUYs5Le.png" width=20%>
+  <img src="https://i.imgur.com/01yTbPI.png" width=20%> 
 </p>
 
 <p align="justify">
 While these applications are individual in nature, together they cover the essential aspects of communication through communication boards, group keyboards, route-based communication, among other features. These applications are designed to be used both by professionals during rehabilitation sessions and by patients in their daily lives.
 </p>
 
+<p>
+  <img src="https://i.imgur.com/rybjUsu.png" width=24%>
+  <img src="https://i.imgur.com/8XOxY72.png" width=24%> 
+  <img src="https://i.imgur.com/d2Bp2r2.png" width=24%>
+  <img src="https://i.imgur.com/mIu7YVX.png" width=24%> 
+</p>
