@@ -93,10 +93,10 @@ PyETO is a Flask application developed with the aim of providing an efficient to
 [Basic COM - Repository](https://github.com/facubrt/flutter--basic-com-app) | [Groups KEY - Repository](https://github.com/facubrt/flutter--groups-key-app) | [Voice COM - Repository](https://github.com/facubrt/flutter--voice-com-app) | [Routes COM - Repository](https://github.com/facubrt/flutter--routes-com-app) 
 
 <p>
-  <img src="https://i.imgur.com/4ps3Cng.png" width=20%>
-  <img src="https://i.imgur.com/UUNFTR1.png" width=20%> 
-  <img src="https://i.imgur.com/LUYs5Le.png" width=20%>
-  <img src="https://i.imgur.com/01yTbPI.png" width=20%> 
+  <img src="https://i.imgur.com/4ps3Cng.png" width=30%>
+  <img src="https://i.imgur.com/UUNFTR1.png" width=30%> 
+  <img src="https://i.imgur.com/LUYs5Le.png" width=30%>
+  <img src="https://i.imgur.com/01yTbPI.png" width=30%> 
 </p>
 
 <p align="justify">
