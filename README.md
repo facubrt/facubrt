@@ -66,7 +66,7 @@ The developed software aims to provide an efficient tool to streamline the asses
 </p>
 <p align="center">
   <img src="https://i.imgur.com/cHXlwK4.png" width=48%> 
-  <img src="https://i.imgur.com/4tGdzm5.png" width=48%>
+  <img src="https://i.imgur.com/qYOOpS7.png" width=48%>
 </p>
 
 ### Basic COM, Groups KEY, Voice COM, Routes COM: Augmentative and alternative communication applications
