@@ -55,7 +55,18 @@ Cognitask is part of a Final Bioengineering Project titled "Development of a P30
 </p>
 
 <p align="center">
-  <img src="https://facubrt.github.io/cognitask/assets/img/profesional.svg" width=48%> <img src="https://facubrt.github.io/cognitask/assets/img/usuario.svg" width=44%>
+  <img src="https://facubrt.github.io/cognitask/assets/img/profesional.svg" width=48%> 
+  <img src="https://facubrt.github.io/cognitask/assets/img/usuario.svg" width=44%>
+</p>
+
+### Automation of Occupational Therapy evaluations: Flask application
+<br/>
+<p align="justify">
+The developed software aims to provide an efficient tool to streamline the assessment and reporting process for the Occupational Therapy CR service at Fleni. The software is hosted on Fleni's server and includes a database that allows the creation of patients. Each patient can have an Admission report, Discharge report, and associated FIM reports. These reports can be downloaded for editing in both Word and Excel formats, using templates provided by the service.
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/cHXlwK4.png" width=48%> 
+  <img src="https://i.imgur.com/4tGdzm5.png" width=48%>
 </p>
 
 ### Basic COM, Groups KEY, Voice COM, Routes COM: Augmentative and alternative communication applications
