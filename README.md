@@ -32,9 +32,23 @@ I am a Bioengineer with special interest in the development of healthcare softwa
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 
 ## Projects
+### Ser Eucaristía: Catholic Application
+
+[Ser Eucaristía - Google Play](https://play.google.com/store/apps/details?id=com.sereucaristia) | [Ser Eucaristía - Website](https://www.sereucaristia.com.ar/) | [Ser Eucaristía - Podcast](https://open.spotify.com/show/7E8f2o8GWoTCz2wSguligJ?si=dcaf2bfc25af4833) | [Iglesia Millenial - Interview](https://iglesiamillennial.com/2020/06/18/ser-eucaristia-ser-detalles-del-amor-de-dios/) | [AICA - Interview](https://aica.org/noticia-ser-eucaristia-un-proyecto-de-evangelizacion-joven-en-las-redes-sociales)
+<br/>
+<p align="justify">
+Ser Eucaristía is a personal Catholic project that started on social media and later expanded to a mobile application to reach more places and hearts. The application is currently in production, was launched in 2021, and has been growing steadily. Users of Ser Eucaristía can create an account and receive daily updates, including the Gospel of the day and a random quote (paper airplanes) from saints, Bible verses, etc. Users can also create their own 'paper airplanes,' fostering a community that interacts daily to spread the word of God to different places and hearts.
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/I0ky1dj.png" width=24%> 
+  <img src="https://i.imgur.com/bNVTwOS.png" width=24%> 
+  <img src="https://i.imgur.com/yD7i0rD.png" width=24%> 
+  <img src="https://i.imgur.com/6JNZXoA.png" width=24%> 
+</p>
+
 ### Cognitask: BCI system based on P300 for cognitive therapies
 
-[Repository](https://github.com/facubrt/cognitask) | [Website](https://facubrt.github.io/cognitask/) | [Latin IEEE Transaction Publication](https://latamt.ieeer9.org/index.php/transactions/article/view/6030)
+[Cognitask - Repository](https://github.com/facubrt/cognitask) | [Cognitask - Website](https://facubrt.github.io/cognitask/) | [Cognitask - Latin IEEE Transaction](https://latamt.ieeer9.org/index.php/transactions/article/view/6030)
 <br/>
 <p align="justify">
 Cognitask is part of a Final Bioengineering Project titled "Development of a P300-Based BCI for Cognitive Rehabilitation of Adults with Attention Deficit" at the Faculty of Engineering (UNER). It features two interfaces: one for the professional and one for the patient. The professional interface allows for patient data entry, session configuration, and real-time session information. It also lets the professional control the system's operation. The patient interface, displayed on a separate screen, shows the tasks, progress, and feedback. The tasks involve arranging images in a stimulation matrix using a P300-based BCI, which detects the user's focus on specific cells. There are three types of tasks: Words, Sequences, and Puzzles, varying in complexity.
@@ -45,5 +59,5 @@ Cognitask is part of a Final Bioengineering Project titled "Development of a P30
 </p>
 
 ### Basic COM, Groups KEY, Voice COM, Routes COM: Augmentative and alternative communication applications
-[Basic COM Repository](https://github.com/facubrt/flutter--basic-com-app) | [Groups KEY Repository](https://github.com/facubrt/flutter--groups-key-app) | [Voice COM Repository](https://github.com/facubrt/flutter--voice-com-app) | [Routes COM Repository](https://github.com/facubrt/flutter--routes-com-app) 
+[Basic COM - Repository](https://github.com/facubrt/flutter--basic-com-app) | [Groups KEY - Repository](https://github.com/facubrt/flutter--groups-key-app) | [Voice COM - Repository](https://github.com/facubrt/flutter--voice-com-app) | [Routes COM - Repository](https://github.com/facubrt/flutter--routes-com-app) 
 
