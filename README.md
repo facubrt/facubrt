@@ -34,7 +34,7 @@ I am a Bioengineer with special interest in the development of healthcare softwa
 ## Projects
 ### Cognitask: BCI system based on P300 for cognitive therapies
 
-[Repository](https://github.com/facubrt/cognitask) | [Website](https://facubrt.github.io/cognitask/) | [IEEE Publication](https://latamt.ieeer9.org/index.php/transactions/article/view/6030)
+[Repository](https://github.com/facubrt/cognitask) | [Website](https://facubrt.github.io/cognitask/) | [Latin IEEE Transaction Publication](https://latamt.ieeer9.org/index.php/transactions/article/view/6030)
 <br/>
 <p align="justify">
 Cognitask is part of a Final Bioengineering Project titled "Development of a P300-Based BCI for Cognitive Rehabilitation of Adults with Attention Deficit" at the Faculty of Engineering (UNER). It features two interfaces: one for the professional and one for the patient. The professional interface allows for patient data entry, session configuration, and real-time session information. It also lets the professional control the system's operation. The patient interface, displayed on a separate screen, shows the tasks, progress, and feedback. The tasks involve arranging images in a stimulation matrix using a P300-based BCI, which detects the user's focus on specific cells. There are three types of tasks: Words, Sequences, and Puzzles, varying in complexity.
