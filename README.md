@@ -33,7 +33,7 @@ I am a Bioengineer with special interest in the development of healthcare softwa
 
 ## Projects
 ### Ser Eucaristía: Catholic Application
-[Ser Eucaristía - Google Play](https://play.google.com/store/apps/details?id=com.sereucaristia) | [Ser Eucaristía - Website](https://www.sereucaristia.com.ar/) | [Ser Eucaristía - Podcast](https://open.spotify.com/show/7E8f2o8GWoTCz2wSguligJ?si=dcaf2bfc25af4833) | [Iglesia Millenial - Interview](https://iglesiamillennial.com/2020/06/18/ser-eucaristia-ser-detalles-del-amor-de-dios/) | [AICA - Interview](https://aica.org/noticia-ser-eucaristia-un-proyecto-de-evangelizacion-joven-en-las-redes-sociales)
+[Ser Eucaristía - App Store](https://apps.apple.com/ar/app/ser-eucarist%C3%ADa-app-cat%C3%B3lica/id6738431526) [Ser Eucaristía - Google Play](https://play.google.com/store/apps/details?id=com.sereucaristia) | [Ser Eucaristía - Website](https://www.sereucaristia.com.ar/) | [Ser Eucaristía - Podcast](https://open.spotify.com/show/7E8f2o8GWoTCz2wSguligJ?si=dcaf2bfc25af4833) | [Iglesia Millenial - Interview](https://iglesiamillennial.com/2020/06/18/ser-eucaristia-ser-detalles-del-amor-de-dios/) | [AICA - Interview](https://aica.org/noticia-ser-eucaristia-un-proyecto-de-evangelizacion-joven-en-las-redes-sociales)
 
 <img src="https://i.imgur.com/ATfESGp.png" width=30%> 
 
